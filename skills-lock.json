@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "skills": {
+    "ocavi-booking-fulfillment": {
+      "source": "Germangalia/ocavi-agents-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ocavi-booking-fulfillment/SKILL.md",
+      "computedHash": "fd8b6da17ad3ac168b9e82865482ea687148397f54e4f283aa684d41b63ed8af"
+    },
+    "ocavi-commerce-settlement": {
+      "source": "Germangalia/ocavi-agents-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ocavi-commerce-settlement/SKILL.md",
+      "computedHash": "394006f0713c4b4192d953ab30905bf7bce88bc3d0e5fa48d8cdc53547bd799f"
+    },
+    "ocavi-participants-services-routing": {
+      "source": "Germangalia/ocavi-agents-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ocavi-participants-services-routing/SKILL.md",
+      "computedHash": "0a1bbc1b65835fb9679ac4477451afff41d76622a3d75ca05c1e8642acf660d5"
+    },
+    "ocva-conformance": {
+      "source": "Germangalia/ocavi-agents-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ocva-conformance/SKILL.md",
+      "computedHash": "36268e7c3fe61ede6c0af8b6efd444e1704efac0faa2a809a728c2655af6b0b7"
+    },
+    "ocva-data-types": {
+      "source": "Germangalia/ocavi-agents-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ocva-data-types/SKILL.md",
+      "computedHash": "eeab9c19bc409abe423848e3a5184d869fad4e6b8d15605eae7a449ead244cd1"
+    },
+    "ocva-foundation": {
+      "source": "Germangalia/ocavi-agents-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ocva-foundation/SKILL.md",
+      "computedHash": "506bcfc64dc09787e285bf1b2bf8e5c744f459aae028ff44dfe7f892d785085b"
+    },
+    "ocva-message-semantics": {
+      "source": "Germangalia/ocavi-agents-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ocva-message-semantics/SKILL.md",
+      "computedHash": "633c92a4f6149728fcf8f8b63f6f9c64ebe47892d5e9e3205ae9f902aff781fc"
+    },
+    "ocva-security-privacy": {
+      "source": "Germangalia/ocavi-agents-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ocva-security-privacy/SKILL.md",
+      "computedHash": "4ef2b078f5f802f9a6342a09b1fc717ca265348c8c0160592f9c6e3c3e2ea1fc"
+    },
+    "ocva-spec-authoring": {
+      "source": "Germangalia/ocavi-agents-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ocva-spec-authoring/SKILL.md",
+      "computedHash": "641977882293c77db62cb70b9b9d69e481587858ec3cc95e86cf38f092110bad"
+    }
+  }
+}
